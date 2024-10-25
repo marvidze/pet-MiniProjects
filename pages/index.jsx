@@ -1,5 +1,5 @@
-import { Back } from "../components/background";
-import { Header } from "../components/header";
+import { Back } from "../components/globalComponents/background";
+import { Header } from "../components/globalComponents/header";
 import { UiButton } from "../components/ui/ui-button";
 
 export default function HomePage() {

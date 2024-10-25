@@ -1,6 +1,6 @@
 import { useState } from "react";
-import { Back } from "../components/background";
-import { Header } from "../components/header";
+import { Back } from "../components/globalComponents/background";
+import { Header } from "../components/globalComponents/header";
 import { UiButton } from "../components/ui/ui-button";
 import { UiModal } from "../components/ui/ui-modal";
 
